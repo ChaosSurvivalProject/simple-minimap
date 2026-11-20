@@ -16,3 +16,9 @@ bedrock/tests/.tmp/
 # 本地运行产物
 *.mcpack
 *.mcaddon
+
+# 交付构建产物（dist/ 下保留真实可下载物）
+!dist/
+!dist/*.mcpack
+!dist/*.jar
+!dist/*.zip
