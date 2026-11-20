@@ -1,0 +1,12 @@
+{
+  "key.simple_minimap.markers": "地点标记",
+  "screen.simple_minimap.markers": "地点标记管理",
+  "screen.simple_minimap.name": "标记名称",
+  "screen.simple_minimap.add": "添加当前位置",
+  "screen.simple_minimap.previous": "上一个",
+  "screen.simple_minimap.next": "下一个",
+  "screen.simple_minimap.rename": "重命名",
+  "screen.simple_minimap.delete": "删除",
+  "screen.simple_minimap.default": "标记",
+  "screen.simple_minimap.empty": "暂无标记"
+}

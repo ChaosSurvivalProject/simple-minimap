@@ -1,0 +1,12 @@
+{
+  "key.simple_minimap.markers": "Location Markers",
+  "screen.simple_minimap.markers": "Location Markers",
+  "screen.simple_minimap.name": "Marker name",
+  "screen.simple_minimap.add": "Add current location",
+  "screen.simple_minimap.previous": "Previous",
+  "screen.simple_minimap.next": "Next",
+  "screen.simple_minimap.rename": "Rename",
+  "screen.simple_minimap.delete": "Delete",
+  "screen.simple_minimap.default": "Marker",
+  "screen.simple_minimap.empty": "No markers"
+}

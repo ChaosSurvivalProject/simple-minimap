@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "simple_minimap",
+  "version": "${version}",
+  "name": "极简小地图",
+  "description": "屏幕角落 64×64 地形色块、区块探索迷雾与本地地点标记管理。仅客户端。",
+  "authors": [
+    "AutoMods"
+  ],
+  "license": "MIT",
+  "icon": "assets/simple_minimap/textures/ui/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "cn.blockforge.generated.simpleminimap.SimpleMinimapClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": ">=0.141.6+1.21.11"
+  }
+}

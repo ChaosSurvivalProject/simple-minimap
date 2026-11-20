@@ -1,0 +1,18 @@
+# 忽略项
+.gradle/
+build/
+out/
+*.class
+*.iml
+.idea/
+.vscode/
+.DS_Store
+
+# Gradle wrapper 的 JAR 需要保留，不要忽略 gradle/wrapper/*.jar
+
+# Bedrock 测试临时目录
+bedrock/tests/.tmp/
+
+# 本地运行产物
+*.mcpack
+*.mcaddon

@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "极简小地图 · 资源包",
+    "description": "极简小地图的图标资源。",
+    "uuid": "12baa6b7-8221-4ba6-91d3-20564fff72f6",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 130]
+  },
+  "modules": [
+    {
+      "description": "极简小地图资源",
+      "type": "resources",
+      "uuid": "704e641b-c612-49a3-bc94-8c8f3cdfb524",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["AutoMods"],
+    "license": "MIT"
+  }
+}
