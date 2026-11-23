@@ -1,5 +1,10 @@
 # 极简小地图 · 两套原生实现
 
+<p align="center">
+  <img src="assets/images/banner.png" alt="simple-minimap 宣传图" width="820">
+</p>
+
+
 面向 Minecraft 的两套**彼此独立、功能边界一致**的「极简小地图」完整源码：
 
 | 交付 | 目标 | 形态 | 状态 |
@@ -8,6 +13,13 @@
 | B | Minecraft Bedrock **1.21.130** | 行为包 + 资源包（脚本模块） | 已通过 33 项离线用例 |
 
 所有版本坐标、API 符号、清单格式号均先于编码从官方页面核对，详见 [VERSION-EVIDENCE.md](VERSION-EVIDENCE.md)。如有「未证实」项则停止实现——本交付无未证实项。
+
+## 效果预览
+
+<p align="center">
+  <img src="assets/images/demo.png" alt="simple-minimap 演示图" width="720">
+</p>
+
 
 ## 功能边界（两套共同遵守）
 
